@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @num1atnum2
+- 👋 Hi, I’m @num1atnum2/Aiden Langley
 - 👀 I’m interested in video games and music
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
